@@ -2,7 +2,7 @@
 // contact
 // twitter @will_irs
 // instagram @will_irs
-// coded from scratch | August, 28, 2023
+// August, 28, 2023
 
 const { firefox } = require('playwright');
 const readline = require('readline');
