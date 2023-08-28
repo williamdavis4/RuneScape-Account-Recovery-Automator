@@ -25,7 +25,7 @@ Upcoming Updates:
  - Other/Notes Box Input
  - .txt file as Input
  - .csv file as Input
- - Tweaking with Billing Dates
+ - Tweaking
  - Connectability with other tools
  - Failsafes
  - UI
