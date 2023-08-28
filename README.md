@@ -31,3 +31,4 @@ Upcoming Updates:
  - UI
  - User-Agent Spoofing
  - Stealth
+ - Headless Mode
