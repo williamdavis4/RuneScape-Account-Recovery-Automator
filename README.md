@@ -17,8 +17,11 @@ CHANGELOG: V1.00 -
  - Socks5 Proxy Integration
  - Accepts Data as Input via Command Line
  - Stores Input Data Statically
+ - 1x Cookie/Bot Bypass
 
 Upcoming Updates:
+ - Captcha/Cloudflare Bypass
+ - Cookie/Bot Bypass
  - Other/Notes Box Input
  - .txt file as Input
  - .csv file as Input
@@ -26,3 +29,5 @@ Upcoming Updates:
  - Connectability with other tools
  - Failsafes
  - UI
+ - User-Agent Spoofing
+ - Stealth
