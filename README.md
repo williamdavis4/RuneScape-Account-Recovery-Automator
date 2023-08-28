@@ -19,7 +19,7 @@ CHANGELOG: V1.00 -
  - Stores Input Data Statically
 
 Upcoming Updates:
-Other/Notes Box Input
+ - Other/Notes Box Input
  - .txt file as Input
  - .csv file as Input
  - Tweaking with Billing Dates
