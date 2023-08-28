@@ -21,7 +21,7 @@ CHANGELOG: V1.00 -
 
 Upcoming Updates:
  - Captcha/Cloudflare Bypass
- - Cookie/Bot Bypass
+ - Constantly Looping/Listening Cookie/Bot Bypass
  - Other/Notes Box Input
  - .txt file as Input
  - .csv file as Input
