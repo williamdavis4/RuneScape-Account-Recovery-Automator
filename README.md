@@ -9,7 +9,7 @@ An automation script powered by Playwright that streamlines the RuneScape accoun
 usage:
  - open Windows PowerShell or CMD. (Terminal on Mac/Linux.)
  - cd into the directory where you downloaded the file (for example: if it is in your Downloads folder, the command is "cd Downloads".)
- - node Auto Ticket V1.00 [BETA].js
+ - node Auto Ticket V1.00 [BETA].js (I'd reccomend re-naming the program to make it easier to execute each time.)
  - follow the prompts.
 
 
