@@ -4,7 +4,7 @@
 
 An automation script powered by Playwright that streamlines the RuneScape account recovery process. Input account details and recovery information to automate form filling and interaction with recovery pages. Effortlessly initiate account recovery, tackle forms, and navigate through the steps, simplifying the recovery process.
 
-*note: you must have JavaScript, playwright, Firefox installed.*
+***note:** you must have JavaScript, playwright, Firefox installed.*
 
 usage:
  - open Windows PowerShell or CMD. (Terminal on Mac/Linux.)
