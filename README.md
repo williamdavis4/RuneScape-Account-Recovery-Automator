@@ -12,16 +12,16 @@ follow the prompts.
 
 note: you must have JavaScript, playwright, Firefox installed.
 
-CHANGELOG: V1.00
-Socks5 Proxy Integration
-Accepts Data as Input via Command Line
-Stores Input Data Statically
+CHANGELOG: V1.00 - 
+ - Socks5 Proxy Integration
+ - Accepts Data as Input via Command Line
+ - Stores Input Data Statically
 
 Upcoming Updates:
 Other/Notes Box Input
-.txt file as Input
-.csv file as Input
-Tweaking with Billing Dates
-Connectability with other tools
-Failsafes
-UI
+ - .txt file as Input
+ - .csv file as Input
+ - Tweaking with Billing Dates
+ - Connectability with other tools
+ - Failsafes
+ - UI
