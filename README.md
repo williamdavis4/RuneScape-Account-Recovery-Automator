@@ -19,6 +19,10 @@ CHANGELOG: V1.00 -
  - Stores Input Data Statically
  - Partially Working Cookie/Bot Bypass
 
+CHANGELOG: V1.01 -
+ - CookieBot Solver Added During manual-recovery page
+ - Falsesafe Added During manual-recovery page
+
 Upcoming Updates:
  - Captcha/Cloudflare Bypass
  - Constantly Looping/Listening Cookie/Bot Bypass
